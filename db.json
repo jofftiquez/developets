@@ -1,6 +1,14 @@
 {
   "pets": [
     {
+      "id": "e8c93211-a9be-40fb-ade8-f81eb018248b",
+      "name": "Pudy",
+      "owner": "IgorFelipe45",
+      "type": "poodle",
+      "description": "A dog who i love and lives with me for like a 15 years.",
+      "img": "https://imgur.com/a/vDHAYL7"
+    },
+    {
       "id": "a792fd1e-d128-47b9-986b-0faadba69ede",
       "name": "Negão",
       "owner": "igoRmon",
